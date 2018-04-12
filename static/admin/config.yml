@@ -4,3 +4,6 @@ backend:
     branch: master
     site_domain: http://localhost:1313
     base_url: http://localhost:3000
+
+media_folder: "static/images/uploads"
+public_folder: "/images/uploads"
